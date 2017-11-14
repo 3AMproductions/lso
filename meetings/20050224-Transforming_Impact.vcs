@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+VERSION:1.0
+BEGIN:VEVENT
+DTSTART:20050225T000000Z
+DTEND:20050225T020000Z
+LOCATION;ENCODING=QUOTED-PRINTABLE:1775 College Rd, Columbus, OH
+UID:040000008200E00074C5B7101A82E00800000000F0ABD4FD54FDC4010000000000000000100
+ 00000CDC4DA6A740ABF48B577E2AC598233D6
+CATEGORIES;ENCODING=QUOTED-PRINTABLE:LSO,OSU
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:=0D=0AOtto Guevara-Guth, leader of Mo=
+vimiento Libertario, will speak in the newly renovated Hagerty Hall, room 1=
+80, with capacity for 250 people.  The building is on College Road, immedia=
+tely after the Oval.  To see pictures and more, go to http://www.osu.edu/fe=
+atures/2005/hagerty_hall/.  The topic will be "The Transforming Impact of L=
+ibertarian Ideas in Costa Rica (and Latin America)", and will be at 7 p.m. =
+on February 24th.  =0D=0A
+SUMMARY;ENCODING=QUOTED-PRINTABLE:The Transforming Impact of Libertarian Id=
+eas in Latin America (HH 180)
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR
